@@ -1,0 +1,21 @@
+* {
+    font-family:"Comic Sans MS";
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+h1 {
+    text-align: center;
+}
+main {
+    display:flex;
+    width:90vw;
+    margin:0 auto;
+    min-height:80vh;
+}
+
+section {
+    border:1px solid black;
+    flex-grow:1;
+    flex-basis: 300px;
+}
