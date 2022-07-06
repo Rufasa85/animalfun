@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 var setupDiv = document.getElementById('setup');
 var punchlineDiv = document.getElementById('punchline');
 var jokeButton = document.getElementById('joke-btn');
@@ -18,3 +19,5 @@ function getApi() {
 getApi();
 
 jokeButton.addEventListener('click', getApi);
+=======
+>>>>>>> dev
